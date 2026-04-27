@@ -1,8 +1,20 @@
 ### Hi there 👋
-Master student incoming | Deep Learning | Large Language Model | Remote Sensing Vision
+I'm an incoming graduate student, majoring in **Deep Learning & Computer Vision**.
 
-- Focus on Transformer, multimodal model, LLM fine-tuning
-- Skilled in dataset construction, environment deployment, model training & optimization
-- Learning to build neural networks from scratch with PyTorch
+## 🧠 Research Interests
+- Deep Learning / Transformer / Large Language Model
+- Remote Sensing Image Processing
+- Model reproduction and lightweight fine-tuning
 
-Always keep coding & researching.
+## 💻 Tech Stack
+- Framework: PyTorch
+- Skill: Dataset construction, data cleaning, model training, Linux deployment
+- Learning: Build neural networks from scratch, LLM LoRA finetune
+
+## 📂 Github Repository
+- Handwritten PyTorch basic modules
+- Classic CV model reproduction
+- Custom dataset processing tools
+
+---
+Slow progress is better than no progress.
